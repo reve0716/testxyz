@@ -35,8 +35,25 @@
 </table>
 </html>
 
+<html>
+<table>
+<tr>
+<th>Revision</th>
+<th>Date</th>
+<th>Author</th>
+<th>Notes</th>
+</tr>
+
+<tr>
+<td>1.0</td> <td></td> <td>Diana Clem</td><td><li>Initial Version</td></tr>
+
+<tr>
+<td>1.0</td> <td></td> <td>Regina Hightower</td><td></td></tr>
+</table>
+</html>
 
 
+<a href="#top">Back to top</a>
 
 
 
