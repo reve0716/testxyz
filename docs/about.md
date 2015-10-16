@@ -22,8 +22,25 @@
 * This count includes only the moons orbiting the eight planets in our solar system. It is likely there are more moons orbiting the giant planets of our solar system and there are moons orbiting around dwarf planets and asteroids.
 
 
+<html>
+<table>
+<tr>
+<th>Revision</th>
+<th>Date</th>
+<th>Author</th>
+<th>Notes</th>
+</tr>
+
+<tr>
+<td>1.0</td> <td></td> <td>Diana Clem</td><td><li>Initial Version</td></tr>
+
+<tr>
+<td>1.0</td> <td></td> <td>Regina Hightower</td><td></td></tr>
+</table>
+</html>
 
 
+<a href="#top">Back to top</a>
 
 
 
